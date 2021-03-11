@@ -1,4 +1,4 @@
-#Nerdy traffic congestion!
+# Nerdy traffic congestion!
 
 Background: Jinan transportation department hopes to introduce new technologies to build an intelligent transportation system integrating traffic management, control, decision-making and service. Under the guidance of Professor Cui Yuquan, I have carried out the modeling and optimization of intersection signal timing.
 
